@@ -1,0 +1,56 @@
+pistas 8 
+insere_aviao 1 11 A220 SP 409 50
+insere_aviao 2 21 A310 RJ 676 130
+insere_aviao 3 31 A320 MADRI 8754 660
+insere_aviao 4 41 A220 LISBOA 8258 650
+insere_aviao 5 51 A310 MIAMI 6586 540
+insere_aviao 6 61 A320 ALASCA 13263 1400
+insere_aviao 7 71 A220 SP 409 50
+insere_aviao 8 81 A310 RJ 676 130
+insere_aviao 1 12 A320 MADRI 8754 660
+insere_aviao 2 22 A220 LISBOA 8258 650
+insere_aviao 3 32 A310 MIAMI 6586 540
+insere_aviao 4 42 A320 ALASCA 13263 1400
+insere_aviao 5 52 A220 SP 409 50
+insere_aviao 6 62 A310 RJ 676 130
+insere_aviao 7 72 A320 MADRI 8754 660
+insere_aviao 8 82 A220 LISBOA 8258 650
+insere_aviao 8 88 A310 MIAMI 6586 540
+insere_aviao 7 76 A320 ALASCA 13263 1400
+insere_aviao 6 67 A220 SP 409 50
+insere_aviao 5 58 A310 RJ 676 130
+insere_aviao 4 47 A320 MADRI 8754 660
+insere_aviao 3 36 A220 LISBOA 8258 650
+insere_aviao 2 29 A310 MIAMI 6586 540
+insere_aviao 1 15 A320 ALASCA 13263 1400
+insere_aviao 1 18 A310 URASOE 19382 1950
+insere_aviao 1 19 A320 NAGA 19779 2020
+decolar 1 
+decolar 2 
+decolar 3 
+decolar 4
+decolar 5
+decolar 6 
+decolar 7 
+decolar 8 
+decolar 4
+decolar 5
+decolar 6 
+decolar 7 
+decolar 8 
+decolar 1
+decolar 2
+decolar 3
+decolar 8
+decolar 7
+decolar 6 
+decolar 5 
+decolar 4 
+decolar 3
+decolar 2
+decolar 1
+tempestade 2
+neblina 3
+turbulencia 4 
+iniciasimulacao 500
+fim
